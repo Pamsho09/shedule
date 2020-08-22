@@ -1,0 +1,444 @@
+{
+    "monday": [
+        {
+            "id": 1,
+            "hours": 12,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 2,
+            "hours": 13,
+            "nameUser": "vxylem"
+        },
+        {
+            "id": 3,
+            "hours": 14,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 4,
+            "hours": 15,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 5,
+            "hours": 16,
+            "nameUser": "angelvarglez"
+        },
+        {
+            "id": 6,
+            "hours": 17,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 7,
+            "hours": 18,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 8,
+            "hours": 19,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 9,
+            "hours": 20,
+            "nameUser": "mambasg"
+        },
+        {
+            "id": 10,
+            "hours": 21,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 11,
+            "hours": 22,
+            "nameUser": "lzombergl"
+        },
+        {
+            "id": 12,
+            "hours": 23,
+            "nameUser": "pamsho_js"
+        }
+    ],
+    "tuesday": [
+        {
+            "id": 1,
+            "hours": 12,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 2,
+            "hours": 13,
+            "nameUser": "vxylem"
+        },
+        {
+            "id": 3,
+            "hours": 14,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 4,
+            "hours": 15,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 5,
+            "hours": 16,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 6,
+            "hours": 17,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 7,
+            "hours": 18,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 8,
+            "hours": 19,
+            "nameUser": "radexgame"
+        },
+        {
+            "id": 9,
+            "hours": 20,
+            "nameUser": "brady7w7"
+        },
+        {
+            "id": 10,
+            "hours": 21,
+            "nameUser": "eduardoguayo"
+        },
+        {
+            "id": 11,
+            "hours": 22,
+            "nameUser": "lzombergl"
+        },
+        {
+            "id": 12,
+            "hours": 23,
+            "nameUser": "alvag0"
+        }
+    ],
+    "wednesday": [
+        {
+            "id": 1,
+            "hours": 12,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 2,
+            "hours": 13,
+            "nameUser": "vxylem"
+        },
+        {
+            "id": 3,
+            "hours": 14,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 4,
+            "hours": 15,
+            "nameUser": "mcanj12"
+        },
+        {
+            "id": 5,
+            "hours": 16,
+            "nameUser": "angelvarglez"
+        },
+        {
+            "id": 6,
+            "hours": 17,
+            "nameUser": "marinn99"
+        },
+        {
+            "id": 7,
+            "hours": 18,
+            "nameUser": "santijungle"
+        },
+        {
+            "id": 8,
+            "hours": 19,
+            "nameUser": "radexgame"
+        },
+        {
+            "id": 9,
+            "hours": 20,
+            "nameUser": "mambasg"
+        },
+        {
+            "id": 10,
+            "hours": 21,
+            "nameUser": "eduardoguayo"
+        },
+        {
+            "id": 11,
+            "hours": 22,
+            "nameUser": "herobros"
+        },
+        {
+            "id": 12,
+            "hours": 23,
+            "nameUser": "pamsho_js"
+        }
+    ],
+    "thursday": [
+        {
+            "id": 1,
+            "hours": 12,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 2,
+            "hours": 13,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 3,
+            "hours": 14,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 4,
+            "hours": 15,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 5,
+            "hours": 16,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 6,
+            "hours": 17,
+            "nameUser": "marinn99"
+        },
+        {
+            "id": 7,
+            "hours": 18,
+            "nameUser": "santijungle"
+        },
+        {
+            "id": 8,
+            "hours": 19,
+            "nameUser": "gaboar"
+        },
+        {
+            "id": 9,
+            "hours": 20,
+            "nameUser": "brady7w7"
+        },
+        {
+            "id": 10,
+            "hours": 21,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 11,
+            "hours": 22,
+            "nameUser": "herobros"
+        },
+        {
+            "id": 12,
+            "hours": 23,
+            "nameUser": "alvag0"
+        }
+    ],
+    "friday": [
+
+        {
+            "id": 1,
+            "hours": 12,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 2,
+            "hours": 13,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 3,
+            "hours": 14,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 4,
+            "hours": 15,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 5,
+            "hours": 16,
+            "nameUser": "angelvarglez"
+        },
+        {
+            "id": 6,
+            "hours": 17,
+            "nameUser": "marinn99"
+        },
+        {
+            "id": 7,
+            "hours": 18,
+            "nameUser": "santijungle"
+        },
+        {
+            "id": 8,
+            "hours": 19,
+            "nameUser": "gaboar"
+        },
+        {
+            "id": 9,
+            "hours": 20,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 10,
+            "hours": 21,
+            "nameUser": "eduardoguayo"
+        },
+        {
+            "id": 11,
+            "hours": 22,
+            "nameUser": "lzombergl"
+        },
+        {
+            "id": 12,
+            "hours": 23,
+            "nameUser": "pamsho_js"
+        }
+
+    ],
+    "saturday": [
+
+        {
+            "id": 1,
+            "hours": 12,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 2,
+            "hours": 13,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 3,
+            "hours": 14,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 4,
+            "hours": 15,
+            "nameUser": "mcabj12"
+        },
+        {
+            "id": 5,
+            "hours": 16,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 6,
+            "hours": 17,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 7,
+            "hours": 18,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 8,
+            "hours": 19,
+            "nameUser": "radexgame"
+        },
+        {
+            "id": 9,
+            "hours": 20,
+            "nameUser": "brady7w7"
+        },
+        {
+            "id": 10,
+            "hours": 21,
+            "nameUser": "urielb55"
+        },
+        {
+            "id": 11,
+            "hours": 22,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 12,
+            "hours": 23,
+            "nameUser": "alvag0"
+        }
+
+    ],
+    "sunday": [
+
+
+        {
+            "id": 1,
+            "hours": 12,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 2,
+            "hours": 13,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 3,
+            "hours": 14,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 4,
+            "hours": 15,
+            "nameUser": "mcabj12"
+        },
+        {
+            "id": 5,
+            "hours": 16,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 6,
+            "hours": 17,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 7,
+            "hours": 18,
+            "nameUser": "Free hour"
+        },
+        {
+            "id": 8,
+            "hours": 19,
+            "nameUser": "gaboar"
+        },
+        {
+            "id": 9,
+            "hours": 20,
+            "nameUser": "urielb55"
+        },
+        {
+            "id": 10,
+            "hours": 21,
+            "nameUser": "urielb55"
+        },
+        {
+            "id": 11,
+            "hours": 22,
+            "nameUser": "herobros"
+        },
+        {
+            "id": 12,
+            "hours": 23,
+            "nameUser": "Free hour"
+        }
+
+
+    ]
+}

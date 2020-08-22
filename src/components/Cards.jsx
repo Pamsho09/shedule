@@ -4,7 +4,7 @@ const ItemCard = styled.div`
 display:grid;
 grid-template-columns:30% 70%;
 gap:1em;
-width:95%;
+width:95%;text-transform:capitalize;
 margin-bottom:1em;
 
 .hour,.name,.nameFree{
@@ -14,24 +14,25 @@ margin-bottom:1em;
     
 }
 a{
+    text-transform:capitalize;
 text-decoration-line:none;
 
 
 }
 .hour{
-height:4em;
+height:4em;text-transform:capitalize;
 font-family: 'Poppins', sans-serif; 
     background: rgba(127, 254, 246, 0.76);
     border-radius:11px;
 }
-.nameFree{
+.nameFree{text-transform:capitalize;
     font-family: 'Poppins', sans-serif; 
 height:4em;
 background: #65B5EE;
 color:#fff;
     border-radius:11px;
 }
-.name{
+.name{text-transform:capitalize;
     font-family: 'Poppins', sans-serif; 
 height:4em;
 background: #5AF084;

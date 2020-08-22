@@ -14,6 +14,7 @@ const Card = styled.div`
   h3,
   span {
     font-family: "Poppins", sans-serif;
+    text-transform:capitalize;
   }
   h1,
   h3 {
@@ -46,13 +47,15 @@ export default function StreamOn(props) {
     <>
       <Card>
     
-        {props.user ? (
+        {props.user ||props.user.nameUser==="Free hours"  ? (
           <>
             <h1 className="nameUser">{props.user.nameUser}</h1>
             <h3>Esta en directo</h3>
             <a
               className="botom"
-              href={`https://www.twitch.tv/${props.user.nameUser}`}>
+              href={
+                
+                `https://www.twitch.tv/${props.user.nameUser}`}>
               <span>View</span>
             </a>
           </>
